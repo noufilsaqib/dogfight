@@ -1,0 +1,1 @@
+Dogfight is an airplane game, where the player moves a plane to shoot down enemies and avoid collisions.  There is a boss enemy at the end of each stage. The game increases in difficulty relative to the number of enemies shot down by the player.

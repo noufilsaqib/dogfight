@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0491f3c-175b-4eca-ad6c-aa12f282b6aa" name="Changes" comment="Added more comments.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/BoundingBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/BoundingBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Bullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/HealthBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/HealthBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Lives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Lives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/MongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/MongoDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/SubscriberHelpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/SubscriberHelpers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Upgrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/project/Upgrade.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/main">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="main" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2GdRRElQKp6dilLg7Jq2MDoq93s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alan/Documents/COMP2522/project-noufil-alan-tas&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\noufi\IdeaProjects\project-noufil-alan-tas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alan\Documents\COMP2522\project-noufil-alan-tas\assets" />
+      <recent name="C:\Users\Alan\Documents\COMP2522\project-noufil-alan-tas\library" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Window" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="USER" value="alan" />
+        <env name="PASS" value="iRy8gqkM03crAfrI" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="org.bcit.comp2522.project.Window" />
+      <module name="Project.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0491f3c-175b-4eca-ad6c-aa12f282b6aa" name="Changes" comment="" />
+      <created>1666716463672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666716463672</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Created classes">
+      <created>1668027038485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668027038485</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created some method stubs">
+      <created>1668029482135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668029482135</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adjusted projectile and enemy speed">
+      <created>1669079624260</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669079624260</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixed framerate issue">
+      <created>1669140180361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669140180361</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added clearall function to clear all enemies, items, and projectiles when game is over.">
+      <created>1669142375075</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669142375075</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added projectile types for player. Upgrade item now upgrades player projectiles">
+      <created>1669148800045</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669148800045</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adjusted button class">
+      <created>1669151474432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669151474432</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added player projectile types. Added projectile upgrade item. Adjusted health and damage. Adjusted spawn chance for upgrades.">
+      <created>1669691541227</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669691541227</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added upgrade image">
+      <created>1669708406259</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669708406259</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Leaderboards now show scores from database.">
+      <created>1669724484769</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669724484769</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fixed json not clearing when going to the leaderboards multiple times.">
+      <created>1669742912587</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669742912587</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Adjusted item drop rate, projectile speeds, added increasing projectile size for player upgrade 4, added projectile interactions based on damage, resets player upgrade level in resetgame">
+      <created>1669753332438</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669753332438</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added libraries for processing.sound.&#10;Changed music to mp3. Added some sound effects.">
+      <created>1669789678296</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669789678296</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added more comments.">
+      <created>1670109609216</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670109609216</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created classes" />
+    <MESSAGE value="Created some method stubs" />
+    <MESSAGE value="Adjusted projectile and enemy speed" />
+    <MESSAGE value="Fixed framerate issue" />
+    <MESSAGE value="Added clearall function to clear all enemies, items, and projectiles when game is over." />
+    <MESSAGE value="Added projectile types for player. Upgrade item now upgrades player projectiles" />
+    <MESSAGE value="Adjusted button class" />
+    <MESSAGE value="Added player projectile types. Added projectile upgrade item. Adjusted health and damage. Adjusted spawn chance for upgrades." />
+    <MESSAGE value="Added upgrade image" />
+    <MESSAGE value="Leaderboards now show scores from database." />
+    <MESSAGE value="Fixed json not clearing when going to the leaderboards multiple times." />
+    <MESSAGE value="Adjusted item drop rate, projectile speeds, added increasing projectile size for player upgrade 4, added projectile interactions based on damage, resets player upgrade level in resetgame" />
+    <MESSAGE value="Added libraries for processing.sound.&#10;Changed music to mp3. Added some sound effects." />
+    <MESSAGE value="Added more comments." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more comments." />
+  </component>
+</project>
